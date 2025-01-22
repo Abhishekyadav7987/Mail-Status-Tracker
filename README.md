@@ -1,5 +1,7 @@
 # Mail Status tracker
 
+**Suppose**, you have applied for a job through an email. You have sent the email two days ago but you haven't gotten any response. And you don't know if the employer read your email or not. Well no need to worry now because I have a solution for that, **introducing Mail Status Tracker**.
+
 **Mail Status Tracker** is an  project designed to help users track the status of their sent emails. With Mail Status Tracker, you can determine whether your email has been read by the recipient, providing peace of mind and valuable insights into your email communications.
 
 ## Introduction
