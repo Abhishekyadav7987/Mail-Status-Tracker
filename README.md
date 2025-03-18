@@ -27,11 +27,10 @@ Mail Status Tracker leverages a straightforward tech stack to deliver its functi
 
 ## Installation
 
-To get started with Mailsbe, follow these steps:
+To get started with Mail Status Tracker, follow these steps:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/mailsbe.git
+   git clone https://github.com/Abhishekyadav7987/Mail-Status-Tracker
    cd Mail Status Tracker
 
 2. **Install dependencies**:
@@ -43,6 +42,6 @@ To get started with Mailsbe, follow these steps:
 4.**Run the application**:
    npm start
 ## Usage:
-Sign up or log in to your Mailsbe account.
-Send an email using the Mailsbe platform, which will embed a tracking pixel in the email.
+Sign up or log in to your Mail Status Tracker account.
+Send an email using the Mail Status Tracker platform, which will embed a tracking pixel in the email.
 Monitor the status of your sent emails on the dashboard. You will see whether the email has been read and the time it was read.
